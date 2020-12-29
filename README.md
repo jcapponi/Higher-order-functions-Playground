@@ -1,7 +1,6 @@
 # Higher-order-functions-Playground
 
-Simples ejemplos de uso de las siguientes funciones que nos evitan el uso de loops y hace el código mas simple, claro y perdormante.
-
+Simple example of higher order functions.
 map(_:)
 reduce(_:_:)
 filter(_:)
